@@ -1,2 +1,2 @@
-#!/bin/bash
-paste -d'\4' iacta iacta
+#!/bin/bh
+tail -1 iacta >> iacta
