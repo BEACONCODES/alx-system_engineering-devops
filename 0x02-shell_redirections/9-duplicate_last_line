@@ -1,2 +1,2 @@
 #!/bin/bh
-paste -d'\4' iacta iacta
+tail --lines=1 iacta >> iacta
